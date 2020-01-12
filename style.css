@@ -199,11 +199,7 @@ footer a{
         margin:30px 2% !important ;
 
     }
-    #main-banner img{
-        position:relative;
-        width:180%;
-        left:-40%;
-    }
+
     .burger-nav{
        display:block;
        height:40px;
